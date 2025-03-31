@@ -1,2 +1,0 @@
-# KygraSMS
-Kygra Sms Bomber 
